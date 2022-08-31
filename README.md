@@ -1,75 +1,39 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio Project
 
-> Description the project.
+In this project, I set up my portfolio repository. My goal here is to set up and add some customization TO  the last sections of my portfolio project. The main aim is the make the web page reponsive for disign. I make the pages to be responsive for different device screen and
+also some animations and transitions are added in this branch. Lastly how to make our
+portfolio accessible by deployint into github pages.
 
+- ![screenshot](Image/mobile1.png)
+- ![screenshot](Image/mobil2.png)
+- ![screenshot](Image/mobile3.png)
+- ![screenshot](Image/contact-form.png)
+## Live Demo
+You can view my hosted website in the link shown below.
+GitHub: [@JUPAC](https://juaryimami.github.io/)
+## :hammer: Built With
 
-## Built With
+- HTML, BOOTSTRAP and CSS
+- FIGMA GIT GITHUB
+- VISUAL STUDIO CODE ggg
+## :blue_book: Learning Objectives
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Understand how to parse a Figma design to create a UI.
+- To understad how to use bootstrap.
+- Flexbox to place elements in the page.
+- Build a personal portfolio site.
+- Use images and backgrounds to enhance the look of the website.
+- The page designed for differnt screen device that makes this project different from the last one
+- Understand how to use effect of animation and transition in a web page
+- Experiencing pair programming
 
 ## Authors
 
-👤 **Author1**
+👤 **JUHAR YIMER**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
+- GitHub: [@JUPAC](https://github.com/juaryimami)
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+- Thanks to all of my coding partners
